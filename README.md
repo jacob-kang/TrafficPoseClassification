@@ -7,7 +7,7 @@ The popularity of Autopitot is risng day by day.
 According to SAE(Society of Automotive Engineers), Current autopilot level is 2. Partial automation.
 <p align="center"><img src="https://user-images.githubusercontent.com/88817336/129144241-1f646283-0700-47c0-ba39-1d51152c2e32.png" width="70%" height="70%"/>
 
-Current Autopilot doesn't care about what person is doing but cares about what direction person is going.
+Current Autopilot doesn't care about what person is doing but cares about which direction person is going.
 
 For example, In incident case such as traffic light malfuntion, road construction or car accident, There may be someone who are traffic gestureing.
 But, in current level, Autopilot may understand 'a person is blocking in front of us'.
