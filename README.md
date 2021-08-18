@@ -1,6 +1,8 @@
 # TrafficPoseRecognition_GraduationProject
 **This is Traffic Pose Recognition AI for Autonomous driving.**
 
+# Introduction
+
 Since Tesla autopilot technique went out into the world,
 The popularity of Autopitot is risng day by day.
 
@@ -16,4 +18,14 @@ But, in current level, Autopilot may understand 'a person is blocking in front o
 
 So I'm aiming to make Traffic Pose recognition AI for understanding a person deeply.
   
+# Detail
+
+Note. This project is made with Pytorch. I use only Pytorch so I can't provide tesorflow version.
+  
+There are 3 parts of it.
+
+(러닝) is about AI learning. You can make your own model.
+This is basically configured VGG-16 (Transfer learning) and I only modified 3 level of classifer (Fully connected 3).
+
+
 
