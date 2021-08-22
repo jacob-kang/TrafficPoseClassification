@@ -1,0 +1,252 @@
+C:\Users\z2soooDT\Anaconda3\envs\python37\python.exe C:/Users/z2soooDT/PycharmProjects/pythonProject/AI_Learning.py
+체크중 :  data\train\R_110_flipped_8 1 0 21.jpg
+체크중 :  R
+cuda is? True
+Operation Check1
+torch.Size([3, 150, 150])
+1
+Operation Check2
+Epoch 1/60
+--------------------
+train Loss: 1.5754 Acc: 81.1941
+val Loss: 0.8510 Acc: 95.0100
+Epoch 2/60
+--------------------
+train Loss: 0.8012 Acc: 92.6792
+val Loss: 0.5600 Acc: 96.9616
+Epoch 3/60
+--------------------
+train Loss: 0.6245 Acc: 94.2194
+val Loss: 0.4282 Acc: 97.7379
+Epoch 4/60
+--------------------
+train Loss: 0.5075 Acc: 95.5125
+val Loss: 0.3511 Acc: 98.1814
+Epoch 5/60
+--------------------
+train Loss: 0.4587 Acc: 95.7311
+val Loss: 0.2985 Acc: 98.4254
+Epoch 6/60
+--------------------
+train Loss: 0.4038 Acc: 96.4442
+val Loss: 0.2595 Acc: 98.6250
+Epoch 7/60
+--------------------
+train Loss: 0.3681 Acc: 96.6058
+val Loss: 0.2322 Acc: 98.7802
+Epoch 8/60
+--------------------
+train Loss: 0.3300 Acc: 96.9196
+val Loss: 0.2097 Acc: 98.9133
+Epoch 9/60
+--------------------
+train Loss: 0.3208 Acc: 97.1477
+val Loss: 0.1959 Acc: 98.9133
+Epoch 10/60
+--------------------
+train Loss: 0.3070 Acc: 97.2143
+val Loss: 0.1747 Acc: 99.1794
+Epoch 11/60
+--------------------
+train Loss: 0.2827 Acc: 97.3854
+val Loss: 0.1609 Acc: 99.1794
+Epoch 12/60
+--------------------
+train Loss: 0.2808 Acc: 97.4520
+val Loss: 0.1536 Acc: 99.1572
+Epoch 13/60
+--------------------
+train Loss: 0.2643 Acc: 97.4140
+val Loss: 0.1429 Acc: 99.2903
+Epoch 14/60
+--------------------
+train Loss: 0.2660 Acc: 97.3664
+val Loss: 0.1340 Acc: 99.3125
+Epoch 15/60
+--------------------
+train Loss: 0.2606 Acc: 97.5471
+val Loss: 0.1291 Acc: 99.3347
+Epoch 16/60
+--------------------
+train Loss: 0.2324 Acc: 97.8133
+val Loss: 0.1238 Acc: 99.3347
+Epoch 17/60
+--------------------
+train Loss: 0.2316 Acc: 97.8228
+val Loss: 0.1163 Acc: 99.3347
+Epoch 18/60
+--------------------
+train Loss: 0.2261 Acc: 97.7943
+val Loss: 0.1118 Acc: 99.4012
+Epoch 19/60
+--------------------
+train Loss: 0.2293 Acc: 97.7087
+val Loss: 0.1061 Acc: 99.4234
+Epoch 20/60
+--------------------
+train Loss: 0.2135 Acc: 97.9844
+val Loss: 0.1018 Acc: 99.4677
+Epoch 21/60
+--------------------
+train Loss: 0.2242 Acc: 97.7847
+val Loss: 0.0985 Acc: 99.4456
+Epoch 22/60
+--------------------
+train Loss: 0.2119 Acc: 97.9369
+val Loss: 0.0949 Acc: 99.4234
+Epoch 23/60
+--------------------
+train Loss: 0.1935 Acc: 98.1460
+val Loss: 0.0920 Acc: 99.4234
+Epoch 24/60
+--------------------
+train Loss: 0.1982 Acc: 97.9844
+val Loss: 0.0883 Acc: 99.4899
+Epoch 25/60
+--------------------
+train Loss: 0.1976 Acc: 97.9844
+val Loss: 0.0859 Acc: 99.4899
+Epoch 26/60
+--------------------
+train Loss: 0.1908 Acc: 98.1270
+val Loss: 0.0840 Acc: 99.4677
+Epoch 27/60
+--------------------
+train Loss: 0.1984 Acc: 98.0319
+val Loss: 0.0808 Acc: 99.4899
+Epoch 28/60
+--------------------
+train Loss: 0.1943 Acc: 98.0890
+val Loss: 0.0784 Acc: 99.4899
+Epoch 29/60
+--------------------
+train Loss: 0.1934 Acc: 98.0034
+val Loss: 0.0766 Acc: 99.5343
+Epoch 30/60
+--------------------
+train Loss: 0.1882 Acc: 98.0605
+val Loss: 0.0763 Acc: 99.5343
+Epoch 31/60
+--------------------
+train Loss: 0.1847 Acc: 98.0224
+val Loss: 0.0740 Acc: 99.5786
+Epoch 32/60
+--------------------
+train Loss: 0.1868 Acc: 98.1936
+val Loss: 0.0727 Acc: 99.5121
+Epoch 33/60
+--------------------
+train Loss: 0.1773 Acc: 98.1746
+val Loss: 0.0720 Acc: 99.5121
+Epoch 34/60
+--------------------
+train Loss: 0.1783 Acc: 98.2506
+val Loss: 0.0679 Acc: 99.5564
+Epoch 35/60
+--------------------
+train Loss: 0.1642 Acc: 98.3837
+val Loss: 0.0690 Acc: 99.5343
+Epoch 36/60
+--------------------
+train Loss: 0.1663 Acc: 98.3932
+val Loss: 0.0669 Acc: 99.5343
+Epoch 37/60
+--------------------
+train Loss: 0.1746 Acc: 98.1270
+val Loss: 0.0662 Acc: 99.5121
+Epoch 38/60
+--------------------
+train Loss: 0.1716 Acc: 98.3362
+val Loss: 0.0654 Acc: 99.5343
+Epoch 39/60
+--------------------
+train Loss: 0.1630 Acc: 98.2696
+val Loss: 0.0651 Acc: 99.5564
+Epoch 40/60
+--------------------
+train Loss: 0.1699 Acc: 98.1841
+val Loss: 0.0645 Acc: 99.5564
+Epoch 41/60
+--------------------
+train Loss: 0.1660 Acc: 98.3552
+val Loss: 0.0618 Acc: 99.5786
+Epoch 42/60
+--------------------
+train Loss: 0.1728 Acc: 98.1651
+val Loss: 0.0606 Acc: 99.6230
+Epoch 43/60
+--------------------
+train Loss: 0.1655 Acc: 98.3267
+val Loss: 0.0602 Acc: 99.5786
+Epoch 44/60
+--------------------
+train Loss: 0.1653 Acc: 98.2506
+val Loss: 0.0577 Acc: 99.6008
+Epoch 45/60
+--------------------
+train Loss: 0.1634 Acc: 98.1651
+val Loss: 0.0585 Acc: 99.6008
+Epoch 46/60
+--------------------
+train Loss: 0.1579 Acc: 98.3172
+val Loss: 0.0593 Acc: 99.5121
+Epoch 47/60
+--------------------
+train Loss: 0.1649 Acc: 98.2126
+val Loss: 0.0585 Acc: 99.5786
+Epoch 48/60
+--------------------
+train Loss: 0.1552 Acc: 98.4218
+val Loss: 0.0575 Acc: 99.5786
+Epoch 49/60
+--------------------
+train Loss: 0.1651 Acc: 98.1651
+val Loss: 0.0573 Acc: 99.6008
+Epoch 50/60
+--------------------
+train Loss: 0.1553 Acc: 98.3932
+val Loss: 0.0546 Acc: 99.6230
+Epoch 51/60
+--------------------
+train Loss: 0.1590 Acc: 98.3647
+val Loss: 0.0538 Acc: 99.6452
+Epoch 52/60
+--------------------
+train Loss: 0.1621 Acc: 98.3172
+val Loss: 0.0531 Acc: 99.6452
+Epoch 53/60
+--------------------
+train Loss: 0.1451 Acc: 98.5358
+val Loss: 0.0538 Acc: 99.6673
+Epoch 54/60
+--------------------
+train Loss: 0.1628 Acc: 98.0890
+val Loss: 0.0537 Acc: 99.6008
+Epoch 55/60
+--------------------
+train Loss: 0.1490 Acc: 98.5358
+val Loss: 0.0523 Acc: 99.6230
+Epoch 56/60
+--------------------
+train Loss: 0.1539 Acc: 98.3267
+val Loss: 0.0517 Acc: 99.5786
+Epoch 57/60
+--------------------
+train Loss: 0.1677 Acc: 98.1746
+val Loss: 0.0505 Acc: 99.6008
+Epoch 58/60
+--------------------
+train Loss: 0.1609 Acc: 98.2982
+val Loss: 0.0516 Acc: 99.5786
+Epoch 59/60
+--------------------
+train Loss: 0.1702 Acc: 98.2221
+val Loss: 0.0507 Acc: 99.6230
+Epoch 60/60
+--------------------
+train Loss: 0.1575 Acc: 98.2506
+val Loss: 0.0494 Acc: 99.6452
+Training complete in 153m 56s
+Best val Acc: 0.996673
+
+Process finished with exit code 0
