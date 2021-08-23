@@ -5,6 +5,8 @@
 
 _Made by Jacob Jisu Kang_
 
+contact: dev.newjacob19@gmail.com
+
 
 # Introduction
 
