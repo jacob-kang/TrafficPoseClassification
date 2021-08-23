@@ -17,15 +17,24 @@ But, in current level, Autopilot may understand 'a person is blocking in front o
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88817336/129146787-4a205829-88d2-4e68-8db2-d82e6a4f7d07.gif)
 
 So I'm aiming to make Traffic Pose recognition AI for understanding a person deeply.
-  
-# Detail
 
-Note. This project is made with Pytorch. I use only Pytorch so I can't provide tesorflow version.
+**Note. This project is made with Pytorch. I use only Pytorch so I can't provide tesorflow version.**
+  
+  
+# How to use
+a
   
 There are 3 parts of it.
 
-(러닝) is about AI learning. You can make your own model.
-This is basically configured VGG-16 (Transfer learning) and I only modified 3 level of classifer (Fully connected 3).
+'AI_learning.py' is about AI learning. You can make your own model.
+This is basically configured VGG-16 (Transfer learning) and I only modified level 3 of classifer (Fully connected 3).
+  
+'AI_Inference_Cam.py' is about 
+  
+'AI_Inference_Pictures.py' is about 
+  
+'AI_Model_Loading.py' is about   
 
+'SSD300_Model_Loading.py' is about 
 
-
+'category_names.txt' is about 
