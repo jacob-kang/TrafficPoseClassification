@@ -1,6 +1,11 @@
 # TrafficPoseRecognition_GraduationProject
 **This is Traffic Pose Recognition AI for Autonomous driving.**
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88817336/130382697-f722de44-a4c9-42a5-895a-6e2fbc7e6284.gif)
+
+_Made by Jacob Jisu Kang_
+
+
 # Introduction
 
 Since Tesla autopilot technique went out into the world,
@@ -22,25 +27,43 @@ So I'm aiming to make Traffic Pose recognition AI for understanding a person dee
   
   
 # Explanations
-'AI_learning.py' is about AI learning. You can make your own model.
+**'AI_learning.py'** is about AI learning. You can make your own model.
 This is basically configured VGG-16 (Transfer learning) and I only modified level 3 of classifer (Fully connected 3).
 I have my own model (.pth file) but the size is too big to upload github due to github policy.
   
+ *** 
+  
 **'AI_Inference_Cam.py'** is about inferencing form camera (Real time).
-  Red line box is for important ones like car, motorcycle, truck etc..
-  Yellow line box is for human who is too small to detect pose or is out of ROI area.
   
+  **Red line box** is for important ones like car, motorcycle, truck etc..
   
+  **Yellow line box** is for human who is too small to detect pose or is out of ROI area.
+  But when it comes closer towards camera (getting bigger in camera) at the sametime it's in ROI, it turns green or blue line box.
   
+  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/88817336/130389629-ef7308f7-8ccf-4105-8d7e-bb44562e0142.gif)
   
-  But when it comes closer or bigger in camera at the sametime it's in ROI, it turns green or blue line box.
+  **Green line box** means this person is gestureing Left or Right.
   
+  **Blue line box** menas this person is gestureing None. (None of left or right). When there are some samee results of gesture after recognition in ROI, Then It shows the blue-colored result arrow on middle top.
   
+  ***
   
-**'AI_Inference_Pictures.py'** is about 
+**'AI_Inference_Pictures.py'** is inference pictures in _'inference_Pictures'_ folder.
   
-**'AI_Model_Loading.py'** is about   
+  I already put some picture in that. and there is a result CSV file.
+  
+  You can see 'InferenceResult_Pictures.csv'. and in that file, how much percent did model infer those pictures.
+  
+  ***
+  
+**'AI_Model_Loading.py'** is about loading AI_model. **Due to github policy, over 25Mb files can not be uploaded in github.**
+  
+  ***
 
-**'SSD300_Model_Loading.py'** is about 
+**'SSD300_Model_Loading.py'** is about  losfinh SSD300 model. It is also not uploaded since its size is over 25 Mb.
+ 
+  To detect object, I use SSD 300. and SSD 300 is one-stage detection. so it is very fast. But... Maybe my skills, this project is not... very fast. XD.
 
-**'category_names.txt'** is about 
+  ***
+  
+**'category_names.txt'** is about SSD 300 categories. just to use SSD 300. Not much important.
