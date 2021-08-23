@@ -21,20 +21,26 @@ So I'm aiming to make Traffic Pose recognition AI for understanding a person dee
 **Note. This project is made with Pytorch. I use only Pytorch so I can't provide tesorflow version.**
   
   
-# How to use
-a
-  
-There are 3 parts of it.
-
+# Explanations
 'AI_learning.py' is about AI learning. You can make your own model.
 This is basically configured VGG-16 (Transfer learning) and I only modified level 3 of classifer (Fully connected 3).
+I have my own model (.pth file) but the size is too big to upload github due to github policy.
   
-'AI_Inference_Cam.py' is about 
+**'AI_Inference_Cam.py'** is about inferencing form camera (Real time).
+  Red line box is for important ones like car, motorcycle, truck etc..
+  Yellow line box is for human who is too small to detect pose or is out of ROI area.
   
-'AI_Inference_Pictures.py' is about 
   
-'AI_Model_Loading.py' is about   
+  
+  
+  But when it comes closer or bigger in camera at the sametime it's in ROI, it turns green or blue line box.
+  
+  
+  
+**'AI_Inference_Pictures.py'** is about 
+  
+**'AI_Model_Loading.py'** is about   
 
-'SSD300_Model_Loading.py' is about 
+**'SSD300_Model_Loading.py'** is about 
 
-'category_names.txt' is about 
+**'category_names.txt'** is about 
