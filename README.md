@@ -53,9 +53,16 @@ I have my own model (.pth file) but the size is too big to upload github due to 
 **'AI_Inference_Pictures.py'** is inference pictures in _'inference_Pictures'_ folder.
   
   I already put some picture in that. and there is a result CSV file.
-  
   You can see 'InferenceResult_Pictures.csv'. and in that file, how much percent did model infer those pictures.
   
+  ![image](https://user-images.githubusercontent.com/88817336/130392607-43a2e619-af0a-4ad7-9fc7-66f8a5050379.png)
+  ![image](https://user-images.githubusercontent.com/88817336/130392484-c0eef254-9cc8-4818-8096-ab16d0c8ce13.png)
+
+  
+  
+  
+  
+
   ***
   
 **'AI_Model_Loading.py'** is about loading AI_model. **Due to github policy, over 25Mb files can not be uploaded in github.**
