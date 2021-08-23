@@ -76,3 +76,11 @@ I have my own model (.pth file) but the size is too big to upload github due to 
   ***
   
 **'category_names.txt'** is about SSD 300 categories. just to use SSD 300. Not much important.
+  
+  
+  
+# Environment
+
+Amd ryzen 7 2700, 16gb ram, Geforce graphic card Gtx 1660 6gb
+Anaconda, Python 3.7.1, (JetBrain) Pycharm Community 2021.1.1.
+Deep learning framework is Pytorch 1.8.0+cu111 and CUDA 11. Packages is Torchvision 0.9.0+cu111.
