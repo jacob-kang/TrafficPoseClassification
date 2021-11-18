@@ -49,7 +49,7 @@ I have my own model (.pth file) but the size is too big to upload github due to 
   
   **Green line box** means this person is gestureing Left or Right.
   
-  **Blue line box** menas this person is gestureing None. (None of left or right). When there are some samee results of gesture after recognition in ROI, Then It shows the blue-colored result arrow on middle top.
+  **Blue line box** means this person is gestureing None. (None of left or right). When there are some samee results of gesture after recognition in ROI, Then It shows the blue-colored result arrow on middle top.
   
   ***
   
