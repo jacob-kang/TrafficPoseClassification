@@ -3,7 +3,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88817336/130382697-f722de44-a4c9-42a5-895a-6e2fbc7e6284.gif)
 
-_Made by Jacob Jisu Kang (advisor : Prof. Haneol Jang)_
+_Made by Jacob Jisu Kang (Advisor : Prof. Haneol Jang)_
 
 contact: dev.newjacob19@gmail.com
 
