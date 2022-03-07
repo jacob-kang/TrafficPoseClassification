@@ -1,5 +1,5 @@
-# TrafficPoseRecognition_GraduationProject
-**This is Traffic Pose Recognition AI for Autonomous driving.**
+# TrafficPoseClassification_GraduationProject
+**This is Traffic Pose Classification AI for Autonomous driving.**
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88817336/130382697-f722de44-a4c9-42a5-895a-6e2fbc7e6284.gif)
 
@@ -24,7 +24,7 @@ But, in current level, Autopilot may understand 'A person is blocking in front o
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88817336/129146787-4a205829-88d2-4e68-8db2-d82e6a4f7d07.gif)
 
-So I'm aiming to make Traffic Pose recognition AI for understanding a person deeply.
+So I'm aiming to make Traffic Pose Classification AI for understanding a person deeply.
 
 **Note. This project is made with Pytorch. I use only Pytorch so I can't provide tesorflow version.**
   
@@ -49,7 +49,7 @@ I have my own model (.pth file) but the size is too big to upload github due to 
   
   **Green line box** means this person is gestureing Left or Right.
   
-  **Blue line box** means this person is gestureing None. (None of left or right). When there are some samee results of gesture after recognition in ROI, Then It shows the blue-colored result arrow on middle top.
+  **Blue line box** means this person is gestureing None. (None of left or right). When there are some same results of gesture after recognition in ROI, Then It shows the blue-colored result arrow on middle top.
   
   ***
   
